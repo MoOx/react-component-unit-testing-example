@@ -8,7 +8,7 @@ import { createRenderer } from "react-addons-test-utils"
 
 import Picture from ".."
 
-// fixtures
+// fixtures (empty and stateless react components)
 const Loader = () => {}
 const Title = () => {}
 

@@ -1,4 +1,4 @@
-# Easy unit testing React components (without a DOM)
+# Unit testing React components
 
 ```console
 $ npm install
